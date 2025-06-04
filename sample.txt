@@ -1,0 +1,4 @@
+LangChain is a framework for building LLM applications.
+Chroma is a vector database optimized for fast retrieval.
+India’s capital city is New Delhi.
+Python is commonly used in AI workflows.
