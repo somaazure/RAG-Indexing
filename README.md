@@ -66,7 +66,7 @@ ragify/
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/ragify.git
+git clone <repo>
 cd ragify
 ````
 
@@ -133,7 +133,6 @@ This project demonstrates:
 * 🧠 End-to-end GenAI knowledge (RAG, dedup, prompt chaining)
 * ⚙️ Tools like LangChain, ChromaDB, dotenv, and more
 
-> ✨ I'm excited to apply these concepts in production-level AI/ML workflows. Let’s build something smarter together!
 
 ## 📜 License
 
